@@ -9,6 +9,5 @@ AutoLug can be controlled through its mobile APP. The user interface allows the 
 AutoLug can also work in autonomous tracking mode. Users can register themselves through QR code and attach their printed QR code to their back. AutoLug will decode the detected QR codes and start traking the correct owner.
 
 ## Demo
-### Manual Control Mode
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/hKK-Z66YSt4/0.jpg)](https://www.youtube.com/watch?v=hKK-Z66YSt4)
